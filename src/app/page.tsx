@@ -247,7 +247,8 @@ export default function App() {
             </p>
             <p className="text-sm leading-7 mb-8" style={{ color: "var(--muted-foreground)" }}>
               Outside of code I learn new things. Recently I've taken interest in C++ and security. 
-              Specifically about video game cheats. I'm looking for an internship where I can master 
+              Specifically about video game cheats. I don't condone cheats
+              it's only for education purposes. I'm looking for an internship where I can master 
               my craft alongside other engineers and developers.
             </p>
 
@@ -288,7 +289,7 @@ export default function App() {
               style={{ aspectRatio: "4/5", backgroundColor: "var(--card)" }}
             >
               <img
-                src="https://cdn.discordapp.com/attachments/1318940011818778665/1551672681269821460/IMG-20230609-WA0000.jpg?ex=6ab2d34b&is=6ab181cb&hm=ed83b9d1a54c4fcbdcb6dfdbe3c953d497f13d4e4ce1101e294f886c9ef53f74&"
+                src="/assets/LinkedinPFP.jpg"
                 alt="Developer portrait"
                 className="w-full h-full object-cover opacity-80"
               />
