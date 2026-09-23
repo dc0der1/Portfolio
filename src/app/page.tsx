@@ -408,7 +408,7 @@ export default function App() {
             <ContactRow label="Email" value="hossein.abrahim2217@gmail.com" href="mailto:hossein.abrahim2217@gmail.com" />
             <ContactRow label="GitHub" value="github.com/dc0der1" href="https://github.com/dc0der1" />
             <ContactRow label="LinkedIn" value="linkedin.com/in/hussein-ibrahim-bb8a01428/" href="https://www.linkedin.com/in/hussein-ibrahim-bb8a01428/" />
-            <ContactRow label="Resume" value="Download PDF" href="#" download />
+            <ContactRow label="Resume" value="Download PDF" href="/assets/CV Hussein Himidh.pdf" download />
           </div>
         </div>
       </section>
